@@ -1,6 +1,6 @@
 {
   "name": "@salesforce/inquirer",
-  "version": "8.1.5-sf-tmp-01",
+  "version": "8.1.5-sf-tmp-02",
   "description": "(Salesforce CLI fork) A collection of common interactive command line user interfaces.",
   "files": [
     "lib",
