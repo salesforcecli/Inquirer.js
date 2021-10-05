@@ -15,26 +15,26 @@
 // TypeScript Version: 4.2
 import { Interface as ReadlineInterface } from 'readline';
 import { Observable } from 'rxjs';
-import Choice = require('./objects/choice');
-import Choices = require('./objects/choices');
-import Separator = require('./objects/separator');
-import './prompts/base';
-import './prompts/checkbox';
-import './prompts/confirm';
-import './prompts/editor';
-import './prompts/expand';
-import './prompts/input';
-import './prompts/list';
-import './prompts/number';
-import './prompts/password';
-import './prompts/rawlist';
-import './utils/events';
-import './utils/paginator';
-import './utils/readline';
-import './utils/screen-manager';
-import './utils/utils';
-import BottomBar = require('./ui/bottom-bar');
-import PromptUI = require('./ui/prompt');
+import Choice = require('./lib/objects/choice');
+import Choices = require('./lib/objects/choices');
+import Separator = require('./lib/objects/separator');
+import './lib/prompts/base';
+import './lib/prompts/checkbox';
+import './lib/prompts/confirm';
+import './lib/prompts/editor';
+import './lib/prompts/expand';
+import './lib/prompts/input';
+import './lib/prompts/list';
+import './lib/prompts/number';
+import './lib/prompts/password';
+import './lib/prompts/rawlist';
+import './lib/utils/events';
+import './lib/utils/paginator';
+import './lib/utils/readline';
+import './lib/utils/screen-manager';
+import './lib/utils/utils';
+import BottomBar = require('./lib/ui/bottom-bar');
+import PromptUI = require('./lib/ui/prompt');
 
 /**
  * Represents a union which preserves autocompletion.
