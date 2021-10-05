@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [8.1.5-sf-tmp-04](https://github.com/salesforcecli/Inquirer.js/compare/v8.1.5-sf-tmp-03...v8.1.5-sf-tmp-04) (2021-10-05)
+
 ### [8.1.5-sf-tmp-03](https://github.com/salesforcecli/Inquirer.js/compare/v8.1.5-sf-tmp-01...v8.1.5-sf-tmp-03) (2021-10-05)
 
 ### [8.1.5-sf-tmp-01](https://github.com/salesforcecli/Inquirer.js/compare/v6.0.0...v8.1.5-sf-tmp-01) (2021-10-05)
